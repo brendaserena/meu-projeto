@@ -35,7 +35,7 @@ margin-bottom: 5px;
 
 .link-botao{
     background-color: rgb(70, 136, 175);
-    color: rgb(130, 192, 245);
+    color: rgb(24, 27, 30);
     padding: 15px;
     border-radius: 8px;
 text-decoration: none;
@@ -53,7 +53,12 @@ font-size: 1.2rem;
 
 }
 .link-botao:hover{
-    background-color: rgb(51, 111, 159);
+    background-color: rgb(82, 109, 130);
     transform: translateY(-2px);
 
 }
+/* Cores das Redes Sociais */
+.instagram { background: #f4a1b0; }
+.linkedin { background: #a5defd; }
+.github { background: #d9c0ff; }
+.whatsapp { background: #7de7a4; }
